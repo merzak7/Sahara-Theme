@@ -1,22 +1,22 @@
 {
-    "name": "sahara-theme",
-    "displayName": "Sahara Theme",
-    "description": "Sahara Theme for Visual Studio Code.",
-    "version": "0.0.1",
-    "publisher": "merzak7",
-    "engines": {
-        "vscode": "^1.19.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Sahara Theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Sahara Theme-color-theme.json"
-            }
-        ]
-    }
+  "name" : "sahara-theme",
+  "displayName" : "Sahara Theme",
+  "description" : "Sahara Theme for Visual Studio Code.",
+  "version" : "0.0.1",
+  "publisher" : "merzak7",
+  "engines" : {
+    "vscode" : "^1.19.0"
+  },
+  "categories" : [
+    "Themes"
+  ],
+  "contributes" : {
+    "themes" : [
+      {
+        "label" : "Sahara Theme",
+        "uiTheme" : "vs-dark",
+        "path" : "./themes/Sahara Theme-color-theme.json"
+      }
+    ]
+  }
 }
