@@ -1,5 +1,6 @@
 {
   "name" : "Sahara Theme",
+  "author" : "Merzak7 (https://twitter.com/merzak7)",
   "type" : "dark",
   "colors": {
 		"editor.background":"#361b00", // "#443d3a",
