@@ -1,6 +1,6 @@
 ![Sahara Theme Logo](assets/Sahara-theme-logo.png)
 
->  Sahara is a dark color theme for **Visual Studio Code**
+>  Sahara is an awesome dark color theme for **Visual Studio Code**
 
 ## Screenshot
 ![Sahara Theme Screenshot](assets/Sahara-theme-Screenshot.png)
@@ -12,5 +12,8 @@
 - ![#ffa41a](https://placehold.it/15/ffa41a/000000?text=+) `#ffa41a`
 - ![#ffd900](https://placehold.it/15/ffd900/000000?text=+) `#ffd900`
 
+## Installation
+You can install this theme through the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=merzak7.sahara-theme).
 
-**Enjoy!**
+## License
+**Sahara** is open-sourced theme licensed under the [MIT License](LICENSE).
