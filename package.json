@@ -1,17 +1,33 @@
 {
   "name" : "sahara-theme",
   "displayName" : "Sahara Theme",
-  "description" : "Sahara Theme for Visual Studio Code.",
-  "version" : "0.0.1",
+  "description" : "An elegant and awesome dark color theme for Visual Studio Code.",
+  "version" : "0.1.0",
   "publisher" : "merzak7",
+  "author" : "Merzak Seven <merzak17@gmail.com> (http://twitter.com/merzak7)",
   "engines" : {
     "vscode" : "^1.19.0"
   },
+  "galleryBanner" : {
+    "color" : "#361b00",
+    "theme" : "dark"
+  },
   "categories" : [
-    "Themes"
+    "Themes",
+    "Other"
   ],
+  "keywords" : [
+    "themes",
+    "sahara",
+    "brown",
+    "dark"
+  ],
+  "license" : "MIT",
   "icon" : "icon.png",
   "homepage" : "https://github.com/merzak7/Sahara-Theme",
+  "bugs" : {
+    "url" : "https://github.com/merzak7/Sahara-Theme/issues"
+  },
   "repository" : {
     "type" : "git",
     "url" : "https://github.com/merzak7/Sahara-Theme"
